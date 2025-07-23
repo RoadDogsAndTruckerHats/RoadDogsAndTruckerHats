@@ -2,7 +2,6 @@
   <h1>Road Dogs And Trucker Hats</h1>
 </div>
 
-<!---
-RoadDogsAndTruckerHats/RoadDogsAndTruckerHats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://img.shields.io/badge/Mission-Give_back_to_the_FOSS_community_and_learn_how_stuff_works-lightblue" alt="My Mission is to give back to the FOSS community" />
+</div>
