@@ -10,12 +10,17 @@
 	<h2>One Liner</h2>
 </div>
 
-Hey there. I'm just a script kitty, focused on learning this stuff. 
+<p align="center">Hey there. I'm just a script kitty, focused on learning this stuff.</p>
+
+---
 
 <details>
-	<summary><strong>Overview</strong></summary>
-	<h3></h3>
-	<p>I usually work with hands, so I don't get a lot of time to work on these projects.</p>
+	<summary><strong>About Me</strong></summary>
+	<h3>Employment</h3>
+	<p>I usually work with hands, so I don't get a lot of time to work on these projects. Christmas break changes everything, but...</p>
+	<p>For work, I've been operating equipment at a mill.</p>
+	<h3>Computer Stuff</h3>
+	<p>This is what I'm here for. I've been interested in FOSS for many years, but I haven't contriuted much back. I mean,Other thand helping out with wikis, and sending crash reports, I guess.</p>
 </details>
 <details>
 	<summary><strong>Currently Learning</strong></summary>
